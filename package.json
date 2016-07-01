@@ -1,0 +1,22 @@
+{
+  "name": "reactjscalc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juening/ReactJS_Calculator.git"
+  },
+  "author": "\u001b[A\u001b[C\u001b[BJue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juening/ReactJS_Calculator/issues"
+  },
+  "homepage": "https://github.com/juening/ReactJS_Calculator#readme",
+  "dependencies": {
+    "babelify": "^7.3.0"
+  }
+}
